@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "60408555135",
+    "firebase_url": "https://omer-b2ca4.firebaseio.com",
+    "project_id": "omer-b2ca4",
+    "storage_bucket": "omer-b2ca4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60408555135:android:43d7a8f68c407754",
+        "android_client_info": {
+          "package_name": "com.gohool.earthquakewatcher1.earthquakewatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60408555135-6binprr2db5rkrako48l8jt9jfsvpsdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxAwqTuhRomnZQk9xmCSwwAhsV8sAX05M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
